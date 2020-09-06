@@ -1,6 +1,9 @@
 # TODO
 
-[wip] - add blob
-[] - animate it
-[] - edit blob color
+[x] - add blob
+[x] - edit blob color
 [] - edit blob path
+[] - download .svg
+[] - add accessories
+
+[] - animate it

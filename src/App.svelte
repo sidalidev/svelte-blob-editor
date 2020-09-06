@@ -25,6 +25,6 @@
 </style>
 
 <main>
-  <h1>Hello Blobbers!</h1>
+  <h1>Blups!</h1>
   <Blob />
 </main>
